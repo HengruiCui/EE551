@@ -7,8 +7,8 @@ Five in a Row is an abstract strategy board game and is also called Gomoku, Goba
 ### Rules
 Black plays first, and players alternate in placing a stone of their color on an empty intersection. The winner is the first player to get an unbroken row of five stones horizontally, vertically, or diagonally.<BR/>
 <BR/>
-### tkinter
-Tkinter is Python's de-facto standard GUI (Graphical User Interface) package. It is a thin object-oriented layer on top of Tcl/Tk.Tkinter is not the only GuiProgramming toolkit for Python. It is however the most commonly used one. I use tkinter to make a cheeseboard like this:
+### package
+Use graphics package and getMouse function to realize the function of the game. I use graphics to make a cheeseboard like this:
 ![example](https://github.com/HengruiCui/EE551/blob/master/five%20in%20a%20row.png)<BR/>
 Then I make a algorithm to complete the game.<BR/>
 <BR/>
