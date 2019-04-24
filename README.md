@@ -12,7 +12,8 @@ Use graphics package and getMouse function to realize the function of the game. 
 ![example](https://github.com/HengruiCui/EE551/blob/master/cheese.png)<BR/>
 Then I make a algorithm to complete the game.<BR/>
 <BR/>
-### Basic function
-I will make a "Person vs Person" game first because it is easier than setting AI. I can use algorithm to complete the game and it can be easy to realize the function that two people play the game together.
+### Code
+#### set parameters
+![parameter](https://github.com/HengruiCui/EE551/blob/master/parameter.png)
 ### Advanced function
 If I have enough time, I want to challenge myself to set AI. I will use the knowledge of machine learning to train AI, so that it can play with players through studying by itself.
