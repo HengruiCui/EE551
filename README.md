@@ -17,5 +17,5 @@ Then I make a algorithm to complete the game.<BR/>
 ![player win](https://github.com/HengruiCui/EE551/blob/master/player%20win.png)
 #### AI win
 ![AI win](https://github.com/HengruiCui/EE551/blob/master/AI%20win.png)
-### Advanced function
-If I have enough time, I want to challenge myself to set AI. I will use the knowledge of machine learning to train AI, so that it can play with players through studying by itself.
+### Conclusion
+This AI do not have ability to study so it cannot be stronger and stronger after several games. Because I just set the strategy that prevent players from winning first and then try to win the game in the code. So its most important duty is to defense rather than attacking.
