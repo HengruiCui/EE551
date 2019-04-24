@@ -9,7 +9,7 @@ Black plays first, and players alternate in placing a stone of their color on an
 <BR/>
 ### package
 Use graphics package and getMouse function to realize the function of the game. I use graphics to make a cheeseboard like this:
-![example](https://github.com/HengruiCui/EE551/blob/master/five%20in%20a%20row.png)<BR/>
+![example](https://github.com/HengruiCui/EE551/blob/master/cheese.png)<BR/>
 Then I make a algorithm to complete the game.<BR/>
 <BR/>
 ### Basic function
