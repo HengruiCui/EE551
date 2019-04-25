@@ -14,8 +14,10 @@ Then I make a algorithm to complete the game.<BR/>
 <BR/>
 ### Result
 #### Player win
+I try to win the game. Putting 5 black pieces in a row, so that we can see the results like this.
 ![player win](https://github.com/HengruiCui/EE551/blob/master/player%20win.png)
 #### AI win
+When I let AI win. It puts 5 white pieces in a row, so that we can see the results like this.
 ![AI win](https://github.com/HengruiCui/EE551/blob/master/AI%20win.png)
 ### Conclusion
 This AI do not have ability to study so it cannot be stronger and stronger after several games. Because I just set the strategy that prevent players from winning first and then try to win the game in the code. So its most important duty is to defense rather than attacking.
